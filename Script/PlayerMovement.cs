@@ -2,6 +2,7 @@ using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour
 {
+    //This is Test Msg
     [SerializeField] float RotationSpeed;
     [SerializeField] float Speed;
     CharacterController controller;
